@@ -115,11 +115,17 @@
 
 ## 📊 GitHub Stats
 
-![Ashlesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashlesh264&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashlesh264&show_icons=true&title_color=7aa2f7&text_color=a9b1d6&icon_color=7dcfff&bg_color=1a1b26&border_color=1a1b26&hide_border=true" alt="Ashlesh's GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashlesh264&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ashlesh264&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashlesh264&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ashlesh264&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26&border_color=1a1b26&hide_border=true&hide=Procfile" alt="Top Languages" />
+</p>
 
 ---
 
